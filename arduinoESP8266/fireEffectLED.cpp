@@ -1,9 +1,9 @@
 /**
  * NeoPixel fire strip
  *
- * Autor: Paul J Chase
+ * Author: Paul J Chase
  *
- *
+ * Based on Dave's LED series #10: https://github.com/davepl/DavesGarageLEDSeries/tree/master/LED%20Episode%2010
  *
  *
  * Copyright (c) 2025 Paul Chase. All rights reserved.
