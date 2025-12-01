@@ -1,14 +1,14 @@
 # dual-led-ring-watch
 3D Printed Wall-Mounted NeoPixel LED Clock with NTP Synchronization
 
-This was originally developed by [Bastel Garage](https://github.com/bastelgarage) and is being modified by Paul Chase (https://github.com/paenian), and later by Andrew Albosta with generous help by AI coding tools.
+This was originally developed by [Bastel Garage](https://github.com/bastelgarage) and is being modified by [Paul Chase](https://github.com/paenian), and later by Andrew Albosta with generous help by AI coding tools.
 
 Paul added a second hand to the clock, and will also be uploading STLs for a larger version based on neopixel strips.
 The larger version will use identical code, just greater spacing on the LEDs.
 Paul intended to display the clock in a makerspace - so I'll also be adding numbers to the dial, so hopefully folks can read it even if
 they are unfamiliar with analog clocks.
 
-Andrew's edits, after buying a copy of Paul's creation in an auction benefitting the Nova Labs Markerspace in Fairfax, Virginia (https://www.nova-labs.org/), modified the code to include a dimming routine based on sunset and sunrise time for a specified Lat/Long, and some animations at the top of each hour.
+Andrew's edits, after buying a copy of Paul's creation in an auction benefitting the [Nova Labs Markerspace in Fairfax, Virginia](https://www.nova-labs.org/), modified the code to include a dimming routine based on sunset and sunrise time for a specified Lat/Long, and some animations at the top of each hour.
 
 
 ## Description
